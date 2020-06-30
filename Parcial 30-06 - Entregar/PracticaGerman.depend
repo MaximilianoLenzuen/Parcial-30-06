@@ -1,0 +1,178 @@
+# depslib dependency file v1.0
+1593490314 source:c:\users\maxi lenzuen\desktop\practicagerman\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"funciones.h"
+	"piloto.h"
+
+1592312333 c:\users\maxi lenzuen\desktop\practicagerman\linkedlist.h
+
+1593490957 c:\users\maxi lenzuen\desktop\practicagerman\employee.h
+
+1561499216 c:\users\maxi lenzuen\desktop\practicagerman\parser.h
+
+1592534024 c:\users\maxi lenzuen\desktop\practicagerman\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1593490266 source:c:\users\maxi lenzuen\desktop\practicagerman\employee.c
+	<stdlib.h>
+	"Employee.h"
+	<string.h>
+
+1593385307 source:c:\users\maxi lenzuen\desktop\practicagerman\funciones.c
+	"funciones.h"
+
+1593490025 source:c:\users\maxi lenzuen\desktop\practicagerman\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593478264 source:c:\users\maxi lenzuen\desktop\practicagerman\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"piloto.h"
+
+1593490378 source:c:\users\maxi lenzuen\desktop\practicagerman\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"piloto.h"
+
+1593490392 c:\users\maxi lenzuen\desktop\practicagerman\controller.h
+
+1593464351 c:\users\maxi lenzuen\desktop\practicagerman\piloto.h
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593464743 source:c:\users\maxi lenzuen\desktop\practicagerman\piloto.c
+	"piloto.h"
+
+1593495872 source:c:\users\maxi lenzuen\desktop\parcial 30-06\funciones.c
+	"funciones.h"
+
+1592534024 c:\users\maxi lenzuen\desktop\parcial 30-06\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1593518359 source:c:\users\maxi lenzuen\desktop\parcial 30-06\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1592312333 c:\users\maxi lenzuen\desktop\parcial 30-06\linkedlist.h
+
+1593494717 source:c:\users\maxi lenzuen\desktop\parcial 30-06\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"piloto.h"
+
+1593490957 c:\users\maxi lenzuen\desktop\parcial 30-06\employee.h
+
+1593518450 c:\users\maxi lenzuen\desktop\parcial 30-06\piloto.h
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593518803 source:c:\users\maxi lenzuen\desktop\parcial 30-06\piloto.c
+	"piloto.h"
+
+1593518378 source:c:\users\maxi lenzuen\desktop\parcial 30-06\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"piloto.h"
+
+1593495022 c:\users\maxi lenzuen\desktop\parcial 30-06\controller.h
+
+1593493570 source:c:\users\maxi lenzuen\desktop\parcial 30-06\employee.c
+	<stdlib.h>
+	"Employee.h"
+	<string.h>
+
+1593518768 source:c:\users\maxi lenzuen\desktop\parcial 30-06\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"funciones.h"
+	"piloto.h"
+
+1593493867 c:\users\maxi lenzuen\desktop\parcial 30-06\parser.h
+
+1593493570 source:c:\users\maxi lenzuen\desktop\parcial 30-06 - copia\employee.c
+	<stdlib.h>
+	"Employee.h"
+	<string.h>
+
+1593490957 c:\users\maxi lenzuen\desktop\parcial 30-06 - copia\employee.h
+
+1593495872 source:c:\users\maxi lenzuen\desktop\parcial 30-06 - copia\funciones.c
+	"funciones.h"
+
+1592534024 c:\users\maxi lenzuen\desktop\parcial 30-06 - copia\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1593521566 source:c:\users\maxi lenzuen\desktop\parcial 30-06 - copia\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1592312333 c:\users\maxi lenzuen\desktop\parcial 30-06 - copia\linkedlist.h
+
+1593521792 source:c:\users\maxi lenzuen\desktop\parcial 30-06 - copia\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"piloto.h"
+
+1593518450 c:\users\maxi lenzuen\desktop\parcial 30-06 - copia\piloto.h
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593518803 source:c:\users\maxi lenzuen\desktop\parcial 30-06 - copia\piloto.c
+	"piloto.h"
+
+1593519324 source:c:\users\maxi lenzuen\desktop\parcial 30-06 - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"piloto.h"
+
+1593519291 c:\users\maxi lenzuen\desktop\parcial 30-06 - copia\controller.h
+
+1593521446 source:c:\users\maxi lenzuen\desktop\parcial 30-06 - copia\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"funciones.h"
+	"piloto.h"
+
+1593493867 c:\users\maxi lenzuen\desktop\parcial 30-06 - copia\parser.h
+
